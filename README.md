@@ -1,2 +1,2 @@
 # psychic-octo-palm-tree
-Advanced Web Development with Django
+Advanced Web Development with Django.
